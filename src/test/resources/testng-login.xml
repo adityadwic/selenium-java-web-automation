@@ -1,0 +1,13 @@
+&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd"&gt;
+&lt;suite name="UserLoginTestSuite"&gt;
+    &lt;listeners&gt;
+        &lt;listener class-name="com.automation.utils.ExtentReportManager"/&gt;
+    &lt;/listeners&gt;
+    
+    &lt;test thread-count="1" name="Login Test"&gt;
+        &lt;classes&gt;
+            &lt;class name="com.automation.tests.UserLoginTest"/&gt;
+        &lt;/classes&gt;
+    &lt;/test&gt;
+&lt;/suite&gt;
