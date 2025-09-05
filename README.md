@@ -2,9 +2,11 @@
 
 [![Java](https://img.shields.io/badge/Java-11-orange.svg)](https://www.oracle.com/java/)
 [![Maven](https://img.shields.io/badge/Maven-3.6+-blue.svg)](https://maven.apache.org/)
-## 🏛️ Framework Architectureps://img.shields.io/badge/Selenium-4.15.0-green.svg)](https://selenium.dev/)
+[![Selenium](https://img.shields.io/badge/Selenium-4.15.0-green.svg)](https://selenium.dev/)
 [![TestNG](https://img.shields.io/badge/TestNG-7.8.0-red.svg)](https://testng.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+## 🏛️ Framework Architecture
 
 A comprehensive automation testing framework built with **Selenium WebDriver**, **Java**, and **TestNG**, implementing **Page Object Model (POM)** design pattern with industry best practices.
 
