@@ -197,6 +197,8 @@ xdg-open test-output/ExtentReport_*.html
 
 ### 🎯 **Report Sample**
 ![Test Report Sample](test-report-allure.png)
+<img width="1439" height="843" alt="test-report-2" src="https://github.com/user-attachments/assets/3aaaa30c-c062-43b1-b0e8-2747afc4399b" />
+
 
 ### 📷 **Screenshots & Attachments**
 - **Auto Screenshot Capture** on test failures
