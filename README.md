@@ -196,7 +196,8 @@ xdg-open test-output/ExtentReport_*.html
 - 📄 **TestNG XML**: `test-output/testng-results.xml`
 
 ### 🎯 **Report Sample**
-![Test Report Sample](test-report-allure.png)
+<img width="1439" height="842" alt="test-report-allure" src="https://github.com/user-attachments/assets/1147f267-88be-412f-a3a3-64af8ca87471" />
+
 <img width="1439" height="843" alt="test-report-2" src="https://github.com/user-attachments/assets/3aaaa30c-c062-43b1-b0e8-2747afc4399b" />
 
 
